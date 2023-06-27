@@ -1,12 +1,12 @@
 My name is Tjalle Borgers. I am a Creative Media and Game Technologies student from the Netherlands.<br>
 Within my study I specialize as an engineer/programmer.<br>
-I can be contacted at tjalle@bogersonline.nl
+I can be contacted at tjalle@bogersonline.nl<br>
 
-Tech I have worked with:
--C#
--C++
--Unity
--Processing
+Tech I have worked with:<br>
+-C#<br>
+-C++<br>
+-Unity<br>
+-Processing<br>
 -HTML/CSS
 
 <!--
