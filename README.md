@@ -1,22 +1,13 @@
-My name is Tjalle Borgers, I am a CMGT (Creative Media and Game Technologies) student from the Netherlands. I have experience with Unity3d, Blender, C#, Processing 3.0,
-Skills
-•	Unity3D <br>
-•	Blender <br>
-•	C# <br>
-•	Processing 3.0 <br>
-•	Some basic Java knowledge <br>
-•	Basic HLSL knowledge <br>
-•	The ability to learn new things <br>
-I have worked on a few school group projects, they can be found on my GitHub page <br>
-•	Project First Contact, A point and click trivia game build with the Processing language <br>
-•	Project Lift Off, A endless scrolling shooter with a custom controller (an Arduino) build in C# using a game engine provided by my college. This project was made in cooperation with another engineer. <br>
-•	Project Final Approach, a platforming puzzle game that was build in C# using from scratch physics. This project was also made in cooperation with another engineer. It faced a lot more difficulty then the other projects because of the lacking communication from the other programmer and my overengineering.
-Outside of school I have also made a few projects, these can Also be found on my GitHub page.
-•	An real time strategy prototype to learn more about game AI design. <br>
-•	A turn based strategy game that I use to push myself to constantly learn new things to make it better.
-Work experience. <br>
-I have worked in the IT department of a local tin can factory for a few months where I helped clean up a ransomware infection by manually checking each computer. This was not very complicated work but it did allow me to get used to working 40 hours a week (I liked it). <br>
+My name is Tjalle Borgers. I am a Creative Media and Game Technologies student from the Netherlands.<br>
+Within my study I specialize as an engineer/programmer.<br>
+I can be contacted at tjalle@bogersonline.nl
 
+Tech I have worked with:
+-C#
+-C++
+-Unity
+-Processing
+-HTML/CSS
 
 <!--
 **KronosTheTitan/KronosTheTitan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
